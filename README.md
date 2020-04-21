@@ -1,7 +1,7 @@
 <p align="center">
-  <!-- <a href="#">
-   <img alt="be the hero" src="https://github.com/tiagoleal/be_the_hero/blob/master/mobile/assets/icon.png?raw=true" width="200">
-  </a> -->
+  <a href="#">
+   <img alt="be the hero" src="https://github.com/tiagoleal/spotcode/blob/master/app/javascript/assets/images/logo.png?raw=true" width="200">
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## Web(PWA)
 
-<!-- ![](https://github.com/tiagoleal/be_the_hero/blob/master/frontend/src/assets/web.gif) -->
+![](https://github.com/tiagoleal/spotcode/blob/master/app/javascript/assets/images/spotcode.gif)
 
 ## Stack the Project
 
